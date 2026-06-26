@@ -13,3 +13,7 @@ A sleek, responsive, and user-friendly 5-step multi-step application form design
 
 * **Frontend:** HTML5, CSS3, JavaScript, ReactJS
 
+
+<img width="715" height="423" alt="Screenshot 2026-06-26 161733" src="https://github.com/user-attachments/assets/67bd5fb8-fb68-4d97-84fb-ab44b8d355e5" />
+
+
